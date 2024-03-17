@@ -1,10 +1,10 @@
 import './App.css'
-import Profile from './profile/Profile';
-import userData from './userData.json';
-import friends from './friends.json';
-import FriendList from './friend/FriendList';
-import transactions from './transactions.json';
-import TransactionHistory from './transaction/TransactionHistory'
+import Profile from './copmonents/profile/Profile';
+import userData from './copmonents/userData.json';
+import friends from './copmonents/friends.json';
+import FriendList from './copmonents/friend/FriendList';
+import transactions from './copmonents/transactions.json';
+import TransactionHistory from './copmonents/transaction/TransactionHistory'
 
 // src/components/App.jsx
 
