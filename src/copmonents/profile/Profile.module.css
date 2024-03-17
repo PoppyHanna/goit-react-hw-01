@@ -57,7 +57,7 @@ ul {
   border-top: 2px solid darkgray;
   border-right: 2px solid darkgray;
   padding: 10px;
-  width: calc(33.33% - 10px);
+  width: calc(33.33% - 0.5px);
 }
 .stats li:last-child {
   border-right: none;
